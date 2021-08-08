@@ -1,0 +1,17 @@
+.audio{
+    text-align: center;
+    padding: 13% 14%;
+}
+
+button{
+margin: 1% 2%;
+}
+.progress-container {
+    background: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px 0;
+    height: 4px;
+    width: 100%;
+  }
+  
